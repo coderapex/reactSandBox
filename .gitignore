@@ -1,0 +1,21 @@
+# dependencies
+/a01-intro/node_modules
+/a01-intro/.pnp
+/a01-intro/.pnp.js
+
+# testing
+/a01-intro/coverage
+
+# production
+/a01-intro/build
+
+# misc
+/a01-intro/.DS_Store
+/a01-intro/.env.local
+/a01-intro/.env.development.local
+/a01-intro/.env.test.local
+/a01-intro/.env.production.local
+
+a01-intro/npm-debug.log*
+a01-intro/yarn-debug.log*
+a01-intro/yarn-error.log*
