@@ -35,3 +35,13 @@ function showButtonText(){
 // refernece this at another point
 <button> {showButtonText()} </button>
 ```
+
+## Communicating with Props
+
+### The Three Pillars of Components
+
+#### Component Nesting
+
+#### Component Reusability
+
+#### Component Configuration
