@@ -40,8 +40,14 @@ function showButtonText(){
 
 ### The Three Pillars of Components
 
-#### Component Nesting
+- Component Nesting
+- Component Reusability
+- Component Configuration
 
-#### Component Reusability
+### Creating a Reusable and Configurable Component
 
-#### Component Configuration
+1. Identify the JSX that appears to be dupicated
+2. Name the JSX in the most descriptive manner
+3. Create a new file for the component having the same name as the component
+4. Create a new component in the file and paste the JSX
+5. Make the component configurable using Raeact's `props` system
