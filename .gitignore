@@ -1,21 +1,34 @@
 # dependencies
 /a01-intro/node_modules
+/a02-communicating-with-props/node_modules
 /a01-intro/.pnp
+/a02-communicating-with-props/.pnp
 /a01-intro/.pnp.js
+/a02-communicating-with-props/.pnp.js
 
 # testing
 /a01-intro/coverage
+/a02-communicating-with-props/coverage
 
 # production
 /a01-intro/build
+/a02-communicating-with-props/build
 
 # misc
 /a01-intro/.DS_Store
+/a02-communicating-with-props/.DS_Store
 /a01-intro/.env.local
+/a02-communicating-with-props/.env.local
 /a01-intro/.env.development.local
+/a02-communicating-with-props/.env.development.local
 /a01-intro/.env.test.local
+/a02-communicating-with-props/.env.test.local
 /a01-intro/.env.production.local
+/a02-communicating-with-props/.env.production.local
 
 a01-intro/npm-debug.log*
+a02-communicating-with-props/npm-debug.log*
 a01-intro/yarn-debug.log*
+a02-communicating-with-props/yarn-debug.log*
 a01-intro/yarn-error.log*
+a02-communicating-with-props/yarn-error.log*
