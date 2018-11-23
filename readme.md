@@ -51,3 +51,15 @@ function showButtonText(){
 3. Create a new file for the component having the same name as the component
 4. Create a new component in the file and paste the JSX
 5. Make the component configurable using Raeact's `props` system
+
+### Understanding the Props System
+
+- System to pass data from a parent component to a child component
+- Used to customize or configure a child compinents
+
+#### Providing props from parent to child
+
+Consider this snippet: `<CommentDetail author="Sam" />`
+
+- 'author' is the name of the property
+- `"Sam"` is the valur of the property
